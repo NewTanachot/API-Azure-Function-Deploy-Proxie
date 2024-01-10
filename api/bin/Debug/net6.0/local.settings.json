@@ -1,8 +1,0 @@
-{
-    "IsEncrypted": false,
-    "Values": {
-        "AzureWebJobsStorage": "UseDevelopmentStorage=true",
-        "FUNCTIONS_WORKER_RUNTIME": "dotnet",
-        "ConnectionString": "Server=aws.connect.psdb.cloud;Database=juttrips-database;user=xin7esrzk33k3e44hdpd;password=pscale_pw_X47WQPbkDdjlBf1pMr17mW9TBdxxTNpoewdPCJHD3cT;SslMode=VerifyFull;"
-    }
-}
