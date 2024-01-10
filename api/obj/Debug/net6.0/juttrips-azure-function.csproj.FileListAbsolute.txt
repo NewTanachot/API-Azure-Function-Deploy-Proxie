@@ -60,11 +60,9 @@
 /Users/80832/personalproject/juttrips-azure-function/bin/Debug/net6.0/Microsoft.Extensions.Options.ConfigurationExtensions.dll
 /Users/80832/personalproject/juttrips-azure-function/bin/Debug/net6.0/Microsoft.Extensions.Primitives.dll
 /Users/80832/personalproject/juttrips-azure-function/bin/Debug/net6.0/Microsoft.Net.Http.Headers.dll
-/Users/80832/personalproject/juttrips-azure-function/bin/Debug/net6.0/MySqlConnector.dll
 /Users/80832/personalproject/juttrips-azure-function/bin/Debug/net6.0/NCrontab.Signed.dll
 /Users/80832/personalproject/juttrips-azure-function/bin/Debug/net6.0/Newtonsoft.Json.dll
 /Users/80832/personalproject/juttrips-azure-function/bin/Debug/net6.0/Newtonsoft.Json.Bson.dll
-/Users/80832/personalproject/juttrips-azure-function/bin/Debug/net6.0/Pomelo.EntityFrameworkCore.MySql.dll
 /Users/80832/personalproject/juttrips-azure-function/bin/Debug/net6.0/System.Diagnostics.DiagnosticSource.dll
 /Users/80832/personalproject/juttrips-azure-function/bin/Debug/net6.0/System.Memory.Data.dll
 /Users/80832/personalproject/juttrips-azure-function/bin/Debug/net6.0/Microsoft.WindowsAzure.Storage.dll
@@ -79,3 +77,5 @@
 /Users/80832/personalproject/juttrips-azure-function/obj/Debug/net6.0/juttrips-azure-function.pdb
 /Users/80832/personalproject/juttrips-azure-function/obj/Debug/net6.0/juttrips-azure-function.genruntimeconfig.cache
 /Users/80832/personalproject/juttrips-azure-function/obj/Debug/net6.0/ref/juttrips-azure-function.dll
+/Users/80832/personalproject/juttrips-azure-function/bin/Debug/net6.0/MySqlConnector.dll
+/Users/80832/personalproject/juttrips-azure-function/bin/Debug/net6.0/Pomelo.EntityFrameworkCore.MySql.dll
